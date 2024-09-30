@@ -16,7 +16,7 @@ Using popular IoT development platforms like ESP32.
 Key Activities: 
  [1] Controlling through apps: Through the Google Home , Amazon Alexa apps the lights can be controlled remotely.
  [2] Real life implication: By using this system anyone can manage their home or, workplace more efficiently.
- [3] 
+ 
 
 Technologies used:
  [1] ESP32
